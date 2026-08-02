@@ -1,0 +1,7 @@
+user,date,hour,event_count,login_success_count,login_failure_count,unique_source_ips,failure_ratio,success_rate,user_hash,privacy_risk
+Unknown,2026-07-20,10,4,0.0,0.0,2,0.0,0.0,b764cdc0eab7,LOW
+alice,2026-07-20,9,2,1.0,1.0,1,0.5,0.5,2bd806c97f0e,LOW
+alice,2026-07-20,11,1,1.0,0.0,1,0.0,1.0,2bd806c97f0e,LOW
+bob,2026-07-20,9,1,1.0,0.0,1,0.0,1.0,81b637d8fcd2,LOW
+bob,2026-07-20,11,1,0.0,1.0,1,1.0,0.0,81b637d8fcd2,LOW
+charlie,2026-07-20,10,1,0.0,1.0,1,1.0,0.0,b9dd960c1753,LOW
